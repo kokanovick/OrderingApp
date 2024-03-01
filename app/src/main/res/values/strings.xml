@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ordering App</string>
+    <string name="TABLE_TAG">"Table number: "</string>
+    <string name="scan_canceled">Scan canceled</string>
+    <string name="wrong_qr_code">Wrong QR code.</string>
+    <string name="scan_qr">Scan a QR Code</string>
+    <string name="create_order">Create Order</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="minus">-</string>
+    <string name="item_quantity">Item Quantity</string>
+    <string name="price_per_item">Price per item</string>
+    <string name="add_first_warning">You must add products first.</string>
+    <string name="confirm_order">Confirm order</string>
+    <string name="add_comments_to_the_staff">Add comments to the staff</string>
+    <string name="total">"Total: "</string>
+    <string name="_0_0">0.0€</string>
+    <string name="order_new"> Your order is sent…</string>
+    <string name="order_started"> Your order is started…</string>
+    <string name="order_completed"> Your order is ready for pickup!</string>
+    <string name="order_id">Your order number: %1$s</string>
+</resources>
